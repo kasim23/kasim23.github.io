@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qasim Sudais blog</title>
+    <description>I like studying deep neural networks and deeply understanding them. Sharing what I learn and find interesting.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 13 Apr 2025 14:37:46 -0400</pubDate>
+    <lastBuildDate>Sun, 13 Apr 2025 14:37:46 -0400</lastBuildDate>
+    <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Understanding Self-Attention and the Unreasonable Effectiveness of a Transformer</title>
+        <description>&lt;p&gt;There’s something magical about Recurrent Neural Networks (RNNs).&lt;/p&gt;
+</description>
+        <pubDate>Fri, 11 Apr 2025 07:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2025/04/11/transformers-and-self-attention/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/04/11/transformers-and-self-attention/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
